@@ -22,3 +22,9 @@
 
 add_lunch_combo omni_oneplus3-userdebug
 add_lunch_combo omni_oneplus3-eng
+
+# SDClang Environment Variables
+export SDCLANG_AE_CONFIG=device/oneplus/oneplus3/sdclang/sdclangAE.json
+export SDCLANG_CONFIG=device/oneplus/oneplus3/sdclang/sdclang.json
+export SDCLANG_SA_ENABLED=false
+
